@@ -1,0 +1,5 @@
+{
+  "name": "CrimeCast AI",
+  "description": "기상 데이터 패턴과 과거 상관관계를 기반으로 범죄 위험을 예측하는 날씨 기반 범죄 위험 분석 애플리케이션입니다.",
+  "requestFramePermissions": []
+}
